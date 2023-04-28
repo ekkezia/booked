@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+config.js
+
+# testing
+/coverage
+opp.js
+config.js
+
+# production
+/build
+config.js
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config.js
