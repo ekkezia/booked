@@ -4,7 +4,6 @@
 # testing
 /coverage
 opp.js
-config.js
 
 # production
 /build
